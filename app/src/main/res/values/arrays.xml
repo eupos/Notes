@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>Салат Оливье</item>
+        <item>Сельд под шубой</item>
+    </string-array>
+
+    <integer-array name="ingredients">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+    <string-array name="authors">
+        <item>Оливье</item>
+        <item>Богомолов</item>
+    </string-array>
+
+   <string-array name="loadedDate">
+       <item>15.02.2022</item>
+       <item>15.02.2022</item>
+   </string-array>
+
+
+</resources>
